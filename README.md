@@ -4,4 +4,4 @@ Link para o projeto: https://observablehq.com/d/f71ab5b61b64456f \
 Integrantes: \
 Matheus do Vale Almeida - 473219\
 Silvio Soares Carreiro - 473582\
-Lucas Assis Cavalcante - 472414\
+Lucas Assis Cavalcante - 472414
